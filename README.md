@@ -24,3 +24,9 @@ source ~/.profile
 6 . Install latest ruby stable version available on rvm: `rvm install ruby`
 
 7 . Install `jruby 9.0.4.0` (requires jdk >= 1.7): `rvm install jruby-9.0.4.0`
+
+8 . Close the cygwin shell and restart it.
+
+9 . Go to rvm's global gemset and install the bundler gem: 
++ 1. `rvm gemset use global`
++ 2. `gem install bundler`
