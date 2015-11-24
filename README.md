@@ -19,4 +19,4 @@ source ~/.profile
 
 6 . Install latest ruby stable version available on rvm: `rvm install ruby`
 
-7 . Install `jruby 9.0.4.0` (requires jdk >= 1.7): 'rvm install jruby-9.0.4.0'
+7 . Install `jruby 9.0.4.0` (requires jdk >= 1.7): `rvm install jruby-9.0.4.0`
