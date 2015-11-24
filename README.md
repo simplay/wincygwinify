@@ -2,6 +2,7 @@
 
 1 . Download [cygwin](http://cygwin.com/install.html) for your windows operating system.
  + E.g. Install the [64bit Windows](http://cygwin.com/setup-x86_64.exe) version.
+
 2 . Install and start cygwin.
 
 3 . Enter into cygwin's shell:
