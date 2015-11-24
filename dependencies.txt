@@ -32,3 +32,9 @@ mingw64-x86_64-gcc-g++
 mingw64-x86_64-gcc-core
 libreadline-devel
 libreadline7
+gcc-core gcc-g++ 
+make 
+binutils 
+w32api 
+zlib 
+zlib-devel
