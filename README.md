@@ -27,6 +27,9 @@ source ~/.profile
 
 8 . Close the cygwin shell and restart it.
 
-9 . Go to rvm's global gemset and install the bundler gem: 
+9 . Exectue `gem update --system`
++ Keep in mind doing so for every installed rubyversion.
+
+10 . Go to rvm's global gemset and install the bundler gem: 
 + 1. `rvm gemset use global`
 + 2. `gem install bundler`
