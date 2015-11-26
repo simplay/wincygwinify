@@ -1,1 +1,1 @@
-apt-cyg 'cat dependencies.txt'
+apt-cyg install `cat dependencies.txt`
