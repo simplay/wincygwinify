@@ -38,3 +38,4 @@ binutils
 w32api 
 zlib 
 zlib-devel
+ncurses
