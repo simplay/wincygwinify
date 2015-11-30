@@ -41,3 +41,4 @@ zlib-devel
 ncurses
 gcc4
 boost-devel
+libboost-devel
