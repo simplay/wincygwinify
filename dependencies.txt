@@ -39,3 +39,5 @@ w32api
 zlib 
 zlib-devel
 ncurses
+gcc4
+boost-devel
